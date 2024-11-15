@@ -1,0 +1,14 @@
+[project]
+name = "si_num"
+version = "0.1"
+authors = [
+  { name="William Collings", email="Collings.William1@gmail.com" },
+]
+description = "Convert numbers to and from SI Unit prefixes"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
